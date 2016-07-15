@@ -1,0 +1,17 @@
+{
+    "name": "@APP_ID@",
+    "description": "description of photos",
+    "architecture": "@CLICK_ARCH@",
+    "title": "@APP_NAME@",
+    "hooks": {
+        "photos": {
+            "apparmor": "photos.apparmor",
+            "desktop":  "photos.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

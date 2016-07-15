@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Photos
+GenericName=Photos application
+Comment=A photo app for Ubuntu Desktop
+Keywords=photo;photos;pictures;
+Exec=photos-app.photos
+Icon=${SNAP}/meta/gui/photos.png
+Terminal=false
+X-Ubuntu-Touch=true
+X-Ubuntu-Default-Department-ID=accessories
+X-Ubuntu-Splash-Color=#F5F5F5
+StartupNotify=true
